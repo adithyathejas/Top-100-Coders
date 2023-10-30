@@ -9,7 +9,7 @@ If you continue to face any challenges or have further questions, we're here to 
 
 Please make sure to complete the following profile highlights by checking the boxes. This helps us learn more about you and your coding journey.
 
-- [ ] Leadership and Influence:
+- [x] Leadership and Influence:
 - [ ] Networking:
 - [ ] As a Top 100 Member:
 - [ ] Career Plan:
